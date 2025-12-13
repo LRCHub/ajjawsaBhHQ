@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ギターと孤独と蒼い惑星",
+  "base_artist": "結束バンド",
+  "createdAt": "2025-12-13T12:11:34.198408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギターと孤独と蒼い惑星",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_ギターと孤独と蒼い惑星_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギターと孤独と蒼い惑星 - Guitar, Loneliness and Blue Planet",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/02_ギターと孤独と蒼い惑星_-_Guitar,_Loneliness_and_Blue_Planet_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギターと孤独と蒼い惑星",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/03_ギターと孤独と蒼い惑星_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギターと孤独と蒼い惑星 -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/04_ギターと孤独と蒼い惑星_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギターと孤独と蒼い惑星",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_ギターと孤独と蒼い惑星_結束バンド.txt"
+    }
+  ]
+}
